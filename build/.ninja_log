@@ -1972,3 +1972,5 @@
 49878	50170	7502519086178601	E:/tcp/build/.bin_timestamp	4c6a25a333ba0bae
 50170	50245	0	esp-idf/esptool_py/CMakeFiles/app_check_size	1a8a28d49511e194
 50170	50245	0	E:/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	1a8a28d49511e194
+49	4720746	0	CMakeFiles/confserver	889188232e5f915f
+49	4720746	0	E:/tcp/build/CMakeFiles/confserver	889188232e5f915f
